@@ -14,6 +14,8 @@ Bu araç, **TP-Link EX530v (Volcano Platformu)** model router cihazlarının yed
 
 Bilgisayarınızda Python 3 yüklü olması yeterlidir. Script, ilk çalıştırmada eksik kütüphaneleri kendisi tamamlayacaktır.
 
+key = b'\x40\xbb\xc6\x6d\xcb\x5a\x1d\xfe'
+
 Bulunan Şifre: u8hBWA7x9L
 
 Konsol komutları sırasıyla
