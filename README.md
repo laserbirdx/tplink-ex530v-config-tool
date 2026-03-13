@@ -15,3 +15,11 @@ Bu araç, **TP-Link EX530v (Volcano Platformu)** model router cihazlarının yed
 Bilgisayarınızda Python 3 yüklü olması yeterlidir. Script, ilk çalıştırmada eksik kütüphaneleri kendisi tamamlayacaktır.
 
 Bulunan Şifre: u8hBWA7x9L
+
+Konsol komutları sırasıyla
+
+$.loadMain("/backNRestore.htm");
+
+document.querySelectorAll('.s_backup, .s_restore').forEach(el => {
+  el.style.display = '';
+});
