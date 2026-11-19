@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/laserbirdx/ex530vconf/releases"><img src="https://img.shields.io/github/v/release/laserbirdx/ex530vconf?logo=github&label=release&color=0ea5e9" alt="GitHub Release" /></a>
+  <a href="https://github.com/laserbirdx/tplink-ex530v-config-tool/releases"><img src="https://img.shields.io/github/v/release/laserbirdx/tplink-ex530v-config-tool?logo=github&label=release&color=0ea5e9" alt="GitHub Release" /></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%28x64%29-0078D6?logo=windows&logoColor=white" alt="Platform: Windows (x64)" />
   <img src="https://img.shields.io/badge/python-3.8%2B-3776AB?logo=python&logoColor=white" alt="Python: 3.8+" />
   <img src="https://img.shields.io/badge/crypto-DES--ECB%20%7C%20LZ77%20%7C%20MD5-14b8a6" alt="Crypto: DES-ECB | LZ77 | MD5" />
@@ -40,7 +40,7 @@ Grab the pre-built single-file Windows executable from the [**Releases**](../../
 
 | Platform | Executable | Size | Architecture | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Windows 10 / 11** | [`ex530vconf.exe`](https://github.com/laserbirdx/ex530vconf/releases/latest/download/ex530vconf.exe) | ~9.5 MB | 64-bit (`x64`) | Standalone single-file executable (Double-Click, Drag & Drop, or CLI) |
+| **Windows 10 / 11** | [`ex530vconf.exe`](https://github.com/laserbirdx/tplink-ex530v-config-tool/releases/latest/download/ex530vconf.exe) | ~9.5 MB | 64-bit (`x64`) | Standalone single-file executable (Double-Click, Drag & Drop, or CLI) |
 
 ---
 
