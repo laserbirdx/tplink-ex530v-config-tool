@@ -3,10 +3,6 @@
 ![TP-Link EX530v Configuration Tool Banner](assets/banner.jpg)
 
 <p align="center">
-  <img src="assets/logo.png" alt="TP-Link EX530v Logo" width="110" />
-</p>
-
-<p align="center">
   <a href="https://github.com/laserbirdx/tplink-ex530v-config-tool/releases"><img src="https://img.shields.io/github/v/release/laserbirdx/tplink-ex530v-config-tool?logo=github&label=release&color=0ea5e9" alt="GitHub Release" /></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%28x64%29-0078D6?logo=windows&logoColor=white" alt="Platform: Windows (x64)" />
   <img src="https://img.shields.io/badge/python-3.8%2B-3776AB?logo=python&logoColor=white" alt="Python: 3.8+" />
